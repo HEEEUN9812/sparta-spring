@@ -1,4 +1,4 @@
-package com.sparta.springprepare.calculator;
+package org.sparta.springprepare.calculator;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
